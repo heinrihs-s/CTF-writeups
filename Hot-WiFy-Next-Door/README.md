@@ -59,17 +59,9 @@ After enabling decryption, we filtered for HTTP traffic and found our flag:
 
 **Flag: ctf{WiFi-is-HOT}**
 
-## Key Takeaways
-- WPA2 networks can be easily cracked if a weak password is used
-- Captured handshakes are crucial for WiFi password cracking
-- Wireshark's decryption capabilities are powerful for analyzing encrypted traffic
 
-## Files
-- [zodiak_wify_ctf-01.cap](./zodiak_wify_ctf-01.cap) - Original capture file
 
-## References
-- [Wireshark IEEE 802.11 Decryption Guide](https://wiki.wireshark.org/HowToDecrypt802.11)
-- [aircrack-ng Documentation](https://www.aircrack-ng.org/doku.php?id=documentation)
+
 
 ---
 *Created: February 24, 2025*  
