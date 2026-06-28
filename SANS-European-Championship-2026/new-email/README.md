@@ -10,6 +10,15 @@ Flag:
 mne{0bfu5c473d_vb4_n3v3r_6375_0ld}
 ```
 
+## Files
+
+The file trail is in [files/](files/).
+
+- [files/MANIFEST.md](files/MANIFEST.md) has the full list
+- `files/artifacts/` has the original zipped doc artifact and extracted DOCX internals
+- `files/scripts/solve.py` is the decoder path
+- `files/original/` has prompt and flag, for quick checking
+
 ## Challenge
 
 Brief said IT sent some new login page instructions. The artifact was:

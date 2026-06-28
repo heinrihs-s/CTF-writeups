@@ -30,6 +30,15 @@ The platform wanted the wrapped version:
 mne{GroUndC0ntr0l2MajorTom}
 ```
 
+## Files
+
+I added the useful files in [files/](files/).
+
+- [files/MANIFEST.md](files/MANIFEST.md) has the full list
+- `files/scripts/` has the SDR decode/analyse scripts
+- `files/artifacts/` has spectrum plots, symbol plots, PSD, power envelope, and a tiny demod WAV
+- the huge raw IQ capture is not committed, becouse an 89MB blob for one writeup is just repo abuse
+
 ## First look
 
 I started with spectrum pictures and guessed too many protocols. POCSAG? some pager thing? maybe something more fancy?

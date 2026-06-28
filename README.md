@@ -18,3 +18,5 @@ Personal CTF notes and writeups. Some are neat, some are honestly just "i was ti
 Flags here are from CTFs / labs after the event. Dont run this stuff on random systems. CTF targets are toys, real life got lawyers and logs.
 
 Tools that show up a lot: Python, Wireshark/tshark, Burp, hashcat, file/binwalk/strings, and way too much staring at bytes.
+
+For the SANS writeups, the interesting ones have `files/` folders with prompts, artifacts, solve scripts, plots, extracted docs, and manifests. Empty writeup folders are lame, fixed that.

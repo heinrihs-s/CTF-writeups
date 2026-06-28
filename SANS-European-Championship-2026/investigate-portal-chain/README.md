@@ -14,6 +14,15 @@ mne{k33p_y0ur_l0gs_cl0s3_but_n0t_th4t_cl0s3}
 mne{d0nt_dr0p_y0ur_k3ys}
 ```
 
+## Files
+
+The useful local files are now in [files/](files/).
+
+- [files/MANIFEST.md](files/MANIFEST.md) has the full list
+- `files/portal-1/artifacts/` has `users.bak`, `app.py`, hashes, cracked output, evidence, and the Flask cookie forge
+- `files/portal-1/original/` through `files/portal-5/original/` have the prompts and flags
+- yes, this includes the toy CTF keys from the vulnerable Flask app; dont treat those like real infra secrets
+
 ## Portal 1 - robots.txt
 
 The first flag was basically "please look at robots". I did:

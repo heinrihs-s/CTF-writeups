@@ -10,6 +10,15 @@ Flag:
 C4tch1ng_H0n3y_p0Ts_w1TH_a_Sh4rk!
 ```
 
+## Files
+
+Added actual files in [files/](files/), because yeah, empty CTF folders are kind of fake.
+
+- [files/MANIFEST.md](files/MANIFEST.md) has the full list
+- `files/artifacts/` has the reconstructed JPG/TXT/EPS/ZIP pieces and render previews
+- `files/notes/` has the solve notes I had locally
+- the original pcap was not in the saved workspace, only the extracted stuff was there
+
 ## Challenge
 
 We got a pcapng, and the prompt was basically "reconstruct files and find flag". Name was `Sharks`, so yeah Wireshark time.
