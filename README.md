@@ -1,38 +1,20 @@
-# CTF-writeups
+# CTF Writeups
 
-My personal collection of CTF (Capture The Flag) challenge writeups and solutions. This repository documents my journey through various cybersecurity challenges, sharing detailed explanations and methodologies used to solve them.
+Personal CTF notes and writeups. Some are neat, some are honestly just "i was tired and it worked". That is the point.
 
+## Writeups
 
-## 📁 Repository Structure
-```
-CTF-writeups/
-├── Hot-WiFy-Next-Door/
-│   ├── README.md (writeup)
-│   └── zodiak_wify_ctf-01.cap
-└── README.md
-```
+- [SANS European Championship 2026](SANS-European-Championship-2026/)
+  - [3 Layer Forensic](SANS-European-Championship-2026/three-layer-forensic/)
+  - [.GGRX](SANS-European-Championship-2026/ggrx/)
+  - [Sharks](SANS-European-Championship-2026/truly-sharks/)
+  - [New Email](SANS-European-Championship-2026/new-email/)
+  - [InvestiGate Portal 1-5](SANS-European-Championship-2026/investigate-portal-chain/)
+- [Hot WiFy Next Door](Hot-WiFy-Next-Door/)
+- [Turn Up The BASE](Turn-Up-The-BASE/)
 
-## 🛠️ Tools Commonly Used
--Python scripts 
-- Wireshark
-- aircrack-ng
-- Burp Suite
-- And many more!
+## Notes
 
-## 💡 Quick Tips for CTF Players
-- Always make detailed notes during challenges
-- Save all relevant files and screenshots
-- Document your failed attempts too - they're valuable learning experiences
-- Keep your tools updated
-- Practice regularly with different types of challenges
+Flags here are from CTFs / labs after the event. Dont run this stuff on random systems. CTF targets are toys, real life got lawyers and logs.
 
-## 📝 Notes
-- All flags in writeups are from public CTF competitions
-- Some challenges might have multiple possible solutions
-- Tools and techniques mentioned are for educational purposes only
-
-## 📢 Disclaimer
-These writeups are for educational purposes only. The knowledge shared here should be used responsibly and ethically. Always ensure you have proper authorization before testing security measures.
-
----
-Last Updated: February 2025
+Tools that show up a lot: Python, Wireshark/tshark, Burp, hashcat, file/binwalk/strings, and way too much staring at bytes.
