@@ -12,16 +12,15 @@ mne{0bfu5c473d_vb4_n3v3r_6375_0ld}
 
 ## Files
 
-The file trail is in [files/](files/).
+Simple layout:
 
-- [files/MANIFEST.md](files/MANIFEST.md) has the full list
-- `files/artifacts/` has the original zipped doc artifact and extracted DOCX internals
-- `files/scripts/solve.py` is the decoder path
-- `files/original/` has prompt and flag, for quick checking
+- [prompt.md](prompt.md) is the original prompt
+- [files/new_outlook_login.zip](files/new_outlook_login.zip) is the original supplied file
+- this README is the thought process
 
 ## Challenge
 
-Brief said IT sent some new login page instructions. The artifact was:
+Brief said IT sent some new login page instructions. The file was:
 
 ```text
 New Outlook Login.docx

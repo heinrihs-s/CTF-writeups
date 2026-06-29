@@ -16,12 +16,11 @@ Flag: emBedDedX0R-01118
 
 ## Files
 
-I added the real bits in [files/](files/), so this is not just story time.
+Simple layout:
 
-- [files/MANIFEST.md](files/MANIFEST.md) has the full list
-- `files/original/` has the prompt and flag
-- `files/artifacts/` has `fh01.zip`, `flag.gif`, the XOR trailer, fixed zip, and one extracted frame
-- `files/scripts/` has the messy solve scripts that got me there
+- [prompt.md](prompt.md) is the original prompt
+- [files/fh01.zip](files/fh01.zip) is the original challenge file
+- this README is the thought process
 
 ## First look
 

@@ -19,4 +19,4 @@ Flags here are from CTFs / labs after the event. Dont run this stuff on random s
 
 Tools that show up a lot: Python, Wireshark/tshark, Burp, hashcat, file/binwalk/strings, and way too much staring at bytes.
 
-For the SANS writeups, the interesting ones have `files/` folders with prompts, artifacts, solve scripts, plots, extracted docs, and manifests. Empty writeup folders are lame, fixed that.
+For the SANS writeups, each folder is kept simple: `README.md` is the thought process, `prompt.md` or `prompts/` is the original prompt, and `files/` has only the challenge files worth keeping.

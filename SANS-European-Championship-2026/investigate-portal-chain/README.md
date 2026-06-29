@@ -16,12 +16,13 @@ mne{d0nt_dr0p_y0ur_k3ys}
 
 ## Files
 
-The useful local files are now in [files/](files/).
+Simple layout:
 
-- [files/MANIFEST.md](files/MANIFEST.md) has the full list
-- `files/portal-1/artifacts/` has `users.bak`, `app.py`, hashes, cracked output, evidence, and the Flask cookie forge
-- `files/portal-1/original/` through `files/portal-5/original/` have the prompts and flags
-- yes, this includes the toy CTF keys from the vulnerable Flask app; dont treat those like real infra secrets
+- `prompts/` has the original prompts for portal 1-5
+- `files/users.bak` is the exposed backup DB
+- `files/app.py` is the recovered app source
+- `files/forge.py` is the small cookie forge, kept because it explains the last step
+- this README is the thought process
 
 ## Portal 1 - robots.txt
 

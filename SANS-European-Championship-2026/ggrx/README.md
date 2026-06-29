@@ -32,12 +32,12 @@ mne{GroUndC0ntr0l2MajorTom}
 
 ## Files
 
-I added the useful files in [files/](files/).
+Simple layout:
 
-- [files/MANIFEST.md](files/MANIFEST.md) has the full list
-- `files/scripts/` has the SDR decode/analyse scripts
-- `files/artifacts/` has spectrum plots, symbol plots, PSD, power envelope, and a tiny demod WAV
-- the huge raw IQ capture is not committed, becouse an 89MB blob for one writeup is just repo abuse
+- [prompt.md](prompt.md) is the original prompt
+- [files/sdr.7z](files/sdr.7z) is the original SDR archive
+- this README is the thought process
+- the expanded 89MB raw IQ file is not committed, becouse that is too much for a public writeup repo
 
 ## First look
 

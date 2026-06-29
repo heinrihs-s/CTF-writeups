@@ -12,12 +12,12 @@ C4tch1ng_H0n3y_p0Ts_w1TH_a_Sh4rk!
 
 ## Files
 
-Added actual files in [files/](files/), because yeah, empty CTF folders are kind of fake.
+Simple layout:
 
-- [files/MANIFEST.md](files/MANIFEST.md) has the full list
-- `files/artifacts/` has the reconstructed JPG/TXT/EPS/ZIP pieces and render previews
-- `files/notes/` has the solve notes I had locally
-- the original pcap was not in the saved workspace, only the extracted stuff was there
+- [prompt.md](prompt.md) is the original prompt
+- `files/` has the recovered transfer files: `1.jpg`, `2.txt`, `3.eps`, `4.jpg`, `5.zip`
+- this README is the thought process
+- the original pcap was not in the saved workspace, so I did not fake it
 
 ## Challenge
 
